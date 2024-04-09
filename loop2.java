@@ -6,7 +6,7 @@ class Main {
     int n = 5;
     // for loop  
     for (int i = 1; i <= n; ++i) {
-      System.out.println("Java Is Fun");
+      System.out.println("Java is fun");
     }
   }
 }
